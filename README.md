@@ -1,1 +1,13 @@
-# 24001118-synrgy7-anas-cmd-ch5
+Entity Relationship Diagram : 
+*
+*
+*
+*
+*
+*
+*
+REST API :
+*
+*
+*
+*
